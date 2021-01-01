@@ -1,1 +1,1 @@
-# ai-gaming-assignments
+# AI Gaming Assignments
